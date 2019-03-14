@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a theoretical research group at the [University of Nevada, Reno](https://www.unr.edu/physics) exploring quantum dynamics and control of ultracold molecules with electromagnetic fields. Recent advances in molecular cooling and trapping have enabled the experimental study of molecular collisions and chemical reactivity at a new frontier, where nontrivial quantum effects (such as resonance scattering, threshold laws, and quantum coherence) can be used to control the outcome of a chemical reaction. A central goal of our research is to gain theoretical insight into ultracold quantum molecular dynamics through the development and deployment of numerically exact quantum scattering methodology. A second focus is on quantum coherence, the remarkable ability of quantum superposition states to behave like waves and to
+We are a theoretical research group at the [University of Nevada, Reno](https://www.unr.edu/physics) exploring quantum dynamics and control of ultracold molecules with electromagnetic fields. Recent advances in molecular cooling and trapping have enabled the experimental study of molecular collisions and chemical reactivity at a new frontier, where nontrivial quantum effects, such as resonance scattering, threshold laws, and quantum coherence, can be used to control the outcome of a chemical reaction. A central goal of our research is to gain theoretical insight into ultracold quantum molecular dynamics through the development and deployment of numerically exact quantum scattering methodology. A second focus is on quantum coherence, the remarkable ability of quantum superposition states to behave like waves and to
 exhibit interference effects. Quantum coherence is an essential resource for emerging quantum technologies such as quantum information processing and quantum sensing. We seek to understand and control quantum coherence and decoherence in a variety of atomic and molecular systems, including photosynthetic light-harvesting complexes, Rydberg aggregates, and impurity atoms and molecules trapped in inert solid matrices and superfluid Helium nanodroplets.
 
 
@@ -53,15 +53,13 @@ exhibit interference effects. Quantum coherence is an essential resource for eme
   </a>
 </div>
 
-To study the quantum dynamics and control of molecular collisions with external electromagnetic fields, we develop and implement numerically exact quantum mechanical coupled-channel methods,  quantum master equation approaches, and diagrammatic Quantum Monte Carlo techniques.
+To study the quantum dynamics and control of molecular collisions with external electromagnetic fields, we develop and implement numerically exact quantum coupled-channel methods,  quantum master equations, and diagrammatic Quantum Monte Carlo techniques.
 
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from UNR and [NSF](https://www.nsf.gov/) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from UNR and [NSF](https://www.nsf.gov/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNR.png" style="width: 210px">
