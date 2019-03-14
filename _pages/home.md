@@ -56,7 +56,7 @@ exhibit interference effects. Quantum coherence is an essential resource for the
 To study the quantum dynamics of molecular collisions in the presence of external electromagnetic fields, we develop and implement numerically exact quantum coupled-channel methods. Quantum master equations and diagrammatic Monte Carlo techniques are used to describe the interactions of molecular impurities with a quantum many-body environment.  
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for motivated PhD students, Postdocs, and Master students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from UNR and [NSF](https://www.nsf.gov/).
@@ -64,6 +64,4 @@ We are grateful for funding from UNR and [NSF](https://www.nsf.gov/).
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNR.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
