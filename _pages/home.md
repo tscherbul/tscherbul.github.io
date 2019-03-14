@@ -53,7 +53,7 @@ exhibit interference effects. Quantum coherence is an essential resource for the
   </a>
 </div>
 
-To study the quantum dynamics and control of molecular collisions with external electromagnetic fields, we develop and implement numerically exact quantum coupled-channel methods,  quantum master equations, and diagrammatic Quantum Monte Carlo techniques.
+To study the quantum dynamics and control of molecular collisions, we develop and implement numerically exact quantum coupled-channel methods,  quantum master equations, and diagrammatic Quantum Monte Carlo techniques.
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
