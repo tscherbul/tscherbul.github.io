@@ -28,22 +28,22 @@ emerging quantum technologies, such as quantum information processing and quantu
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/SmartTipSide.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/NoiseCover2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/cake_web.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/tamagochi.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/Group2015_red.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -56,7 +56,7 @@ emerging quantum technologies, such as quantum information processing and quantu
   </a>
 </div>
 
-To study the quantum dynamics of molecular collisions in the presence of external electromagnetic fields, we develop and implement numerically exact quantum coupled-channel methods. Quantum master equations and diagrammatic Monte Carlo techniques are used to describe the interactions of molecular impurities with a quantum many-body environment.  
+We also develop and implement theoretical methods to study quantum dynamics of atoms and molecules. These include numerically exact quantum coupled-channel methods for low-temperature molecular collisions in external fields, quantum master equations for open quantum systems, and diagrammatic Monte Carlo techniques for molecular impurities interacting with quantum many-body environments.  
 
 
  **We are looking for motivated PhD students, Postdocs, and Master students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
