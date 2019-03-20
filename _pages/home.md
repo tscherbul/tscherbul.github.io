@@ -34,7 +34,7 @@ emerging quantum technologies, such as quantum information processing and quantu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/cake_web.jpg" width="20" height="20" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/logos.jpg" alt="Slide 4" />
