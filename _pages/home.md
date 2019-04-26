@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a theoretical research group at the [University of Nevada, Reno](https://www.unr.edu/physics) exploring quantum dynamics and control of ultracold molecules. Recent advances in molecular cooling and trapping have enabled the experimental study of molecular collisions and chemical reactivity at a new frontier, where nontrivial quantum effects, such as resonance scattering, threshold laws, and quantum coherence, can be used to control the outcome of a chemical reaction. A central goal of our research is to gain theoretical insight into the quantum dynamics of ultracold molecular collisions and chemical reactions in the presence of external electromagnetic fields through the development and deployment of numerically exact quantum scattering methodology. 
+We are a theoretical research group at the [University of Nevada, Reno](https://www.unr.edu/physics) exploring quantum dynamics and control of ultracold molecules. Recent advances in molecular cooling and trapping have enabled the experimental study of molecular collisions and chemical reactivity at a new frontier, where nontrivial quantum effects, such as resonance scattering, threshold laws, and quantum coherence, can be used to control the outcome of a chemical reaction. A central goal of our research is to gain theoretical insight into the quantum dynamics of ultracold molecular collisions and chemical reactions in the presence of external electromagnetic fields through the development and deployment of numerically exact quantum scattering methodology.
 
 Quantum coherence, the remarkable ability of quantum superposition states to behave like waves and to
 exhibit interference effects, lies at the heart of quantum mechanics and serves as key resource for
@@ -28,7 +28,7 @@ emerging quantum technologies, such as quantum information processing and quantu
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/xs2Dplot_w3h3cm.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/xs2D_2panel_h25w12.5cm.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 2" />
