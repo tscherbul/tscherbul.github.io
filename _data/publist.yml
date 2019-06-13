@@ -1,6 +1,7 @@
 - title: "Restricted basis set coupled-channel  calculations on atom-molecule collisions in magnetic fields"
   image: 2019-restricted_basis.png
   description: We employed truncated helicity basis sets to improve the computational efficiency of quantum coupled-channel scattering calculations on ultracold atom-molecule collisions in an external magnetic field. 
+  authors: M Morita and T V Tscherbul
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5047063
     display:  J. Chem. Phys. 150, 074110 (2019).
