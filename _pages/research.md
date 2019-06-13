@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Research"
+title: "Tscherbul Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Tscherbul Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+We explore the rich and complex world of ultracold molecular collisions using the tools and techniques of quantum mechanics. The ultimate goal of our research is to control molecular collisions and chemical reactions at the most fundamental, quantum few-body level.  To make this possible, we perform accurate quantum dynamics calculations of molecular collisions in the presence of external electromagnetic fields. 
 
 Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
  
