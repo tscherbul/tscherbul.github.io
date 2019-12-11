@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a theoretical research group at the [University of Nevada, Reno](https://www.unr.edu/physics) working at the interface of  theoretical atomic, molecular, and chemical physics, quantum theory of open systems, and quantum many-body theory. We develop novel theoretical and computational approaches to quantum dynamics and control of complex molecular systems, both isolated and in the presence of an external environment.  
+We are a theoretical research group at the [University of Nevada, Reno](https://www.unr.edu/physics) exploring the interface of  theoretical atomic, molecular, and chemical physics, quantum theory of open systems, and quantum many-body theory. We develop  theoretical and computational methods to elucidate and control the quantum dynamics of complex molecular systems, both isolated and in the presence of an external environment. 
 
 Our primary focus on ultracold molecular matter is motivated by becent advances in molecular cooling and trapping have enabled the experimental study of molecular collisions and chemical reactivity at a new frontier, where nontrivial quantum effects, such as resonance scattering, threshold laws, and quantum coherence, can be used to control the outcome of a chemical reaction. A central goal of our research is to gain theoretical insight into the quantum dynamics of ultracold molecular collisions and chemical reactions in the presence of external electromagnetic fields through the development and deployment of numerically exact quantum scattering methodology.
 
