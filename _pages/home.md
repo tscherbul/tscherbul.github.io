@@ -36,13 +36,13 @@ emerging quantum technologies, such as quantum information processing and quantu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/LiCaH.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/LiCaH_a.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/LiCaH_b.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/Group2015_red.jpg" alt="Slide 6" />
