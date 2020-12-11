@@ -1,11 +1,11 @@
 ---
-title: "Tscherbul Lab - Pictures"
+title: "Tscherbul Lab - Resources"
 layout: piclay
-excerpt: "Tscherbul Lab -- Pictures"
-permalink: /pictures/
+excerpt: "Tscherbul Lab -- Resources"
+permalink: /resources/
 ---
 
-# Pictures
+# Resources
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
