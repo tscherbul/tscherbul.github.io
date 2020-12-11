@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-We explore the rich and complex world of ultracold molecular collisions using the tools and techniques of quantum mechanics. The ultimate goal of our research is to control molecular collisions and chemical reactions at the most fundamental, quantum few-body level.  To make this possible, we perform accurate quantum dynamics calculations of molecular collisions in the presence of external electromagnetic fields. 
+We explore the fascinating world of quantum dynamics of complex atomic and molecular systems using the tools and techniques of quantum mechanics. The ultimate goal of our research is to understand and control molecular collisions and chemical reactions at the most fundamenta, quantum level. To make this possible, we develop new methods for accurate quantum dynamical calculations of molecular collisions and chemical reactions in the presence of external electromagnetic fields. We are also interested in how quantum dynamics in complex molecular systems are affected by an external environment, which causes relation and decoherence of quantum superposition states.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+Some of the questions we are interested in include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
