@@ -3,18 +3,21 @@
 
 - date: 27 July 2020
   headline: "Our paper about coherent control of the cold F + HD chemical reaction is in <a href='https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.031303'>Phys. Rev. A Rapid Communication.</a>"
+  
+- date: August 2020
+  headline: "Congratulations to Suyesh on defending his <a href='https://scholarworks.unr.edu/handle/11714/7584'>PhD Thesis.</a>"
+  
+- date: February 2020
+  headline: "Suyesh's work on noise-induced quantum coherences in three-level quantum systems driven by polarized incoherent light is on the <a href='https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.031303'> ArXiv."
 
-- date: 08. October 2018
-  headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>. <img src='/images/pubpic/Pub_BCl.png' class='img-responsive' style='max-width: 192px' />"
+- date: 3 February 2020
+  headline: "Our paper on controlling ultracold chemical reactions by magentic fields is in <a href='https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013117'>Phys. Rev. Research.</a>. <img src='/images/pubpic/Pub_BCl.png' class='img-responsive' style='max-width: 192px' />"
+  
+- date: 2 June 2020
+  headline: "Rebekah talks about her work on magnetic field-controlled ultracold Na + NaLi chemical reaction at <a href='https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.031303'>DAMOP.</a>"
 
-- date: 27. September 2018
-  headline: "Our MHz amplifier for STM is published in <a href='https://aip.scitation.org/doi/10.1063/1.5043267'>Review of Scientific Instruments</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
-
-- date: 16. May 2018
-  headline: "Milan, Koen and Irene talk about superconductivity in <a href='https://youtu.be/hxz22AYUGhM'>Made in Leiden</a>."
-
-- date: 4. May 2018
-  headline: "Welcome Ram!"
+%- date: 4. May 2018
+%  headline: "Welcome Ram!"
 
 - date: 5.-9. March 2018
   headline: "Irene and Milan are at the March Meeting (Talk <a href='http://meetings.aps.org/Meeting/MAR18/Session/E45.11'>Tue 10am, session E45</a>)"
