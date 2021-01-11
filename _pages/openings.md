@@ -10,7 +10,7 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will join the group of theorists who are pushing the frontiers of quantum physics of atoms and molecules by  designing novel tools to control their quantum dynamics using external electromagentic fields.  You will be exploring fundamental questions related to chemical reactivity at ultralow temperatures, quantum coherence, and quantum theory of open systems. You will be developing algorithms for solving computationally hard quantum problems, and your discoveries will stimulate novel experiments exploring the fascinating world of quantum physics. 
 
 ### Current open positions
 
