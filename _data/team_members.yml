@@ -27,9 +27,5 @@
 - name: "This could be you !"
 #  photo: rock.jpg
   info: See <a href="https://tscherbul.github.io/vacancies">here</a> for more information
-  email: 
+# email: 
   number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
