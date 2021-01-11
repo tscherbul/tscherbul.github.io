@@ -170,48 +170,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
  <tr>
     <th>Visitors</th>
     <th>Master Students</th>
-#    <th>Bachelor Students</th>
+    <th>Bachelor Students</th>
   </tr>
   <tr>
     <td>Maciej Kosicki, Summer 2018</td>
-    <td>Giacomo Bighin, November 2018, Fall 2018</td>
+    <td>Gabriela De La Torre, Spring 2020 </td>
   </tr>
   <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Ramakrishna Aluru, Summer 2018</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
+    <td>Giacomo Bighin, November 2018 </td>
   </tr>
 </table>
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
