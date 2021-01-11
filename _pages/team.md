@@ -170,7 +170,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
  <tr>
     <th>Visitors</th>
     <th>Master Students</th>
-    <th>Bachelor Students</th>
   </tr>
   <tr>
     <td>Maciej Kosicki, Summer 2018</td>
