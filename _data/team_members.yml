@@ -9,23 +9,24 @@
   education4: Research Associate, <a href="https://www.chemistry.utoronto.ca/people/directories/all-faculty/paul-brumer"> Brumer Group, University of Toronto (2012-15) </a> 
 
 - name: Rebekah Hermsmeier
-  photo: rock.jpg
+  photo: Rebekah.jpg
   info: Graduate student since 2019
   email: rhermsmeier@nevada.unr.edu
   number_educ: 2
   education1: MS, Physics, San Diego State University (2017)
-  education2: BA, Natural Science and Mathematics, Thomas Edison State University, Trenton, NJ
+  education2: BA, Natural Science and Mathematics, Thomas Edison State University, Trenton, NJ (2015)
   
 - name: Suyesh Koyu
-  photo: Doohee2.jpg
+  photo: Suyesh.jpg
   info: Graduate student, 2016-2020
-  email: 
-  number_educ: 1
-  education1: B.S. Tribhuvan University, Nepal
+  email: skoyu@nevada.unr.edu
+  number_educ: 2
+  education1: PhD, Physics, University of Nevada, Reno (2020)
+  education2: MS, Physics, Tribhuvan University, Nepal (2010)
 
 - name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#  photo: rock.jpg
+  info: See <a href="https://tscherbul.github.io/vacancies">here</a> for more information
   email: 
   number_educ: 0
   education1:
