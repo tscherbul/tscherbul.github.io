@@ -170,12 +170,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
  <tr>
     <th>Visitors</th>
     <th>Master Students</th>
-    <th>Bachelor Students</th>
+#    <th>Bachelor Students</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
+    <td>Maciej Kosicki, Summer 2018</td>
+    <td>Giacomo Bighin, November 2018, Fall 2018</td>
   </tr>
   <tr>
     <td>Vitaly Fedoseev, all of 2016</td>
