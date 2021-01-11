@@ -24,8 +24,8 @@
   education1: PhD, Physics, University of Nevada, Reno (2020)
   education2: MS, Physics, Tribhuvan University, Nepal (2010)
 
-- name: "This could be you !"
+#- name: "This could be you !"
 #  photo: rock.jpg
-  info: See <a href="https://tscherbul.github.io/vacancies">here</a> for more information
+#  info: See <a href="https://tscherbul.github.io/vacancies">here</a> for more information
 # email: 
-  number_educ: 0
+#  number_educ: 0
