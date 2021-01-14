@@ -1,4 +1,14 @@
-- title: "Restricted basis set coupled-channel  calculations on atom-molecule collisions in magnetic fields"
+- title: "Coherent control of reactive scattering at low temperatures: Signatures of quantum interference in the differential cross sections for F + H2 and F + HD"
+  image: 2019-restricted_basis.png
+  description: We show that angle-dependent reactive scattering of cold molecules can be efficiently controlled by forming coherent superpositions of degenerate rotational states, an example of quantum interference-based coherent control in action
+  authors: M Morita and T V Tscherbul
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.031303
+    display:  Phys. Rev. A 102, 031303(R) (2020).
+  highlight: 1
+  news2:
+
+- title: "Restricted basis set coupled-channel calculations on atom-molecule collisions in magnetic fields"
   image: 2019-restricted_basis.png
   description: We employed truncated helicity basis sets to improve the computational efficiency of quantum coupled-channel scattering calculations on ultracold atom-molecule collisions in an external magnetic field. 
   authors: M Morita and T V Tscherbul
