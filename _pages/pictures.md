@@ -9,6 +9,7 @@ permalink: /resources/
 
 ## UNR groups
 [Jonathan Weinstein](https://weinsteinlab.org/)
+
 [Sergey Varganov](https://packpages.unr.edu/svarganov)
 
 ## UBC
