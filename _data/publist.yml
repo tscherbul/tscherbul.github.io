@@ -1,9 +1,9 @@
 - title: "Coherent control of reactive scattering at low temperatures: Signatures of quantum interference in the differential cross sections for F + H2 and F + HD"
   image: 2019-restricted_basis.png
   description: We show that angle-dependent reactive scattering of cold molecules can be efficiently controlled by forming coherent superpositions of degenerate rotational states, an example of quantum interference-based coherent control in action
-  authors: A. Devolder, T. V. Tscherbul, and P. Brumer
+  authors: Adrien Devolder, Timur V. Tscherbul, and Paul Brumer
   link:
-    url: ({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
+    url: {{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf
     display:  Phys. Rev. A 102, 031303(R) (2020).
   highlight: 1
   news2:
