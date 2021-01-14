@@ -38,6 +38,16 @@
     display:  Phys. Rev. A 100, 063419 (2019).
   highlight: 1
   news2:
+  
+- title: "Universal probability distributions of scattering observables in ultracold molecular collisions"
+  image: 2019-PRL-universal.png
+  description: We propose a new statistical approach to cold molecular collisions based on cumulative probability distributions of scattering observables averaged over an ensemble of interaction potentials. The approach it applicable to a wide range of collision systems currently considered out of reach of quantum dynamics theory.
+  authors: Masato Morita, Roman V. Krems, and Timur V. Tscherbul
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.013401
+    display:  Phys. Rev. Lett. 123 013401 (2019).
+  highlight: 1
+  news2:
 
 - title: "Phase-locking Between Different Partial Waves in Atom-Ion Spin-Exchange Collisions"
   image: 2018-RRL-phase-locking.png
