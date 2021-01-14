@@ -64,7 +64,7 @@ We also develop and implement theoretical methods to study quantum dynamics of a
  **We are looking for motivated PhD students, Postdocs, and Master students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from UNR and [NSF](https://www.nsf.gov/).
+We are grateful for funding from UNR, [NSF](https://www.nsf.gov/), and [DoD AFOSR](https://www.afrl.af.mil/AFOSR/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNR.png" style="width: 210px">
