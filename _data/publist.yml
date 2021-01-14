@@ -69,6 +69,17 @@
   highlight: 1
   news1: <a href="https://phys.org/news/2018-12-description-rotating-molecules-easy.html">Phys.org, Description of rotating molecules made easy </a>
   news2: 
+  
+- title: "Secular versus nonsecular Redfield dynamics and Fano coherences in incoherent excitation. An experimental proposal"
+  image: 2018-PRA-nonsecular.png
+  description: Two different master-equation approaches are formally derived to address the dynamics of open quantum systems interacting with a thermal environment, leading to two physical results: nonsecular equations, which show noise-induced (Fano) coherences; and secular equations, which do not. We propose an experimental test for the appearance of nonsecular terms in the master equation using Ca atoms in magnetic fields excited with broadband incoherent radiation.
+  authors: Amro Dodin, Timur V. Tscherbul, Robert Alicki, Amar Vutha, and Paul Brumer
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.013421
+    display:  Phys. Rev. A 97, 013421 (2018).
+  highlight: 1
+  news1: <a href="https://phys.org/news/2018-12-description-rotating-molecules-easy.html">Phys.org, Description of rotating molecules made easy </a>
+  news2: 
 
 - title: "Restricted basis set coupled-channel calculations on atom-molecule collisions in magnetic fields"
   image: 2019-restricted_basis.png
