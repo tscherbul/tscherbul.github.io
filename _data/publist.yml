@@ -51,13 +51,13 @@
 
 - title: "Diagrammatic Monte Carlo Approach to Angular Momentum in Quantum Many-Particle Systems"
   image: 2018-PRL-DiagMC-angulon.png
-  description: We introduce a diagrammatic Monte Carlo approach to angular momentum properties of quantum many-body systems. The approach is applicable at arbitrary coupling, is free of systematic errors and finite-size effects, and naturally provides access to the impurity Green function. We exemplify the technique by obtaining an all-coupling solution of the angulon model described a rotating molecule immersed in a superfluid.
+  description: We introduce a diagrammatic Monte Carlo approach to angular momentum properties of quantum many-body systems. We exemplify the technique by obtaining the Green's function of the angulon model describing a rotating molecule immersed in a superfluid.
   authors: Giacomo Bighin, Timur V. Tscherbul, and Mikhail Lemeshko
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.165301
     display:  Phys. Rev. Lett. 121, 165301 (2018).
   highlight: 1
-  news1: <a href="https://phys.org/news/2018-12-description-rotating-molecules-easy.html">Phys.org</a>
+  news1: <a href="https://phys.org/news/2018-12-description-rotating-molecules-easy.html">Phys.org: Description of rotating molecules made easy</a>
   news2: 
 
 - title: "Restricted basis set coupled-channel calculations on atom-molecule collisions in magnetic fields"
