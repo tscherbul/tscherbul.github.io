@@ -28,6 +28,16 @@
     display:  Phys. Rev. Research 2, 013117 (2020).
   highlight: 1
   news2:
+  
+  - title: "Magnetic tuning of ultracold barrierless chemical reactions"
+  image: 2020-PRA-Alkali-inH2.png
+  description: Our theory of electron spin coherence lifetimes of alkali-metal atoms trapped in a solid para-hydrogen matri agrees well with experimental observations. This is good news for using matrix-isolated atoms to store quantum information.
+  authors: Sunil Upadhyay, Ugne Dargyte, Vsevolod D. Dergachev, Robert P. Prater, Sergey A. Varganov, Timur V. Tscherbul, David Patterson, and Jonathan D. Weinstein
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.063419
+    display:  Phys. Rev. A 100, 063419 (2019).
+  highlight: 1
+  news2:
 
 - title: "Phase-locking Between Different Partial Waves in Atom-Ion Spin-Exchange Collisions"
   image: 2019-restricted_basis.png
