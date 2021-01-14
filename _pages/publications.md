@@ -1,7 +1,7 @@
 ---
-title: "Tscherbul Lab - Publications"
+title: "Tscherbul Group - Publications"
 layout: gridlay
-excerpt: "Tscherbul Lab -- Publications."
+excerpt: "Tscherbul Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=NZAdC8kAAAAJ&view_op=list_works&sortby=pubdate))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
