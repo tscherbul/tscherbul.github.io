@@ -12,4 +12,4 @@ We explore the fascinating world of quantum dynamics of complex atomic and molec
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-We also develop new theoretical methods and computer codes for accurate quantum dynamical calculations of complex quantum systems and processes, such as chemical reactions at ultralow temperatures in the presence of external electromagnetic fields.
+We also develop new theoretical methods and computer codes for accurate and efficient quantum dynamical calculations of complex quantum systems and processes, such as chemical reactions at ultralow temperatures in the presence of external electromagnetic fields.
