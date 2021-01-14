@@ -29,7 +29,7 @@
   highlight: 1
   news2:
   
-  - title: "Spin coherence and optical properties of alkali-metal atoms in solid parahydrogen"
+- title: "Spin coherence and optical properties of alkali-metal atoms in solid parahydrogen"
   image: 2020-PRA-Alkali-inH2.png
   description: Our new theory of electron spin coherence lifetimes of alkali-metal atoms trapped in a solid para-hydrogen matrix agrees well with experimental observations. This is good news for using matrix-isolated atoms to store quantum information.
   authors: Sunil Upadhyay, Ugne Dargyte, Vsevolod D. Dergachev, Robert P. Prater, Sergey A. Varganov, Timur V. Tscherbul, David Patterson, and Jonathan D. Weinstein
@@ -40,7 +40,7 @@
   news2:
 
 - title: "Phase-locking Between Different Partial Waves in Atom-Ion Spin-Exchange Collisions"
-  image: 2019-restricted_basis.png
+  image: 2018-RRL-phase-locking.png
   description: We discovered a new phase-locking effect in ion-atom collisions, which enables quantum interference to survive at much higher temperatures than previously believed possible.
  
   authors: T Sikorsky, M Morita, Z Meir, A A Buchachenko, R Ben-shlomi, N Akerman, E Narevicius, T V Tscherbul, and R Ozeri
