@@ -30,7 +30,7 @@ emerging quantum technologies, such as quantum information processing and quantu
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/xs2D_2panel_h25w12.5cm.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/cold-molecules-resized.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 2" />
@@ -45,7 +45,7 @@ emerging quantum technologies, such as quantum information processing and quantu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/transport.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/cold-molecules-resized.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/xs2D_2panel_h25w12.5cm.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
