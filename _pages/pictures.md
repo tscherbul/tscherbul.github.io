@@ -17,7 +17,7 @@ permalink: /resources/
 
 
 ## ITAMP
-
+[The Institute for Theoretical Atomic, Molecular, and Optical Physics at Harvard](https://www.cfa.harvard.edu/itamp-home)
 
 ## University of Toronto
 [Chemical Physics Theory Group](https://sites.chem.utoronto.ca/cptg/)
