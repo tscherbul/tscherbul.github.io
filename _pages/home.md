@@ -33,16 +33,16 @@ emerging quantum technologies, such as quantum information processing and quantu
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/cold-molecules-resized2.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/LiCaH_b.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/LiCaH_b.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/xs2D_2panel_h25w12.5cm.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/transport.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/transport.png" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/xs2D_2panel_h25w12.5cm.jpg" alt="Slide 6" />
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_pics/coherence_blank_w3h2cm.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
