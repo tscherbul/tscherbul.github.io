@@ -1,6 +1,6 @@
 - title: "Steady-state Fano coherences in a V-type system driven by polarized incoherent light"
   image: 2021-PRR-Vsystem.png
-  description: We establish a connection between noise-induced Fano coherences that arise in a three-level V-system driven by polarized incoherent light, and the nonequilibrium flux across a pair of qubits coupled to two independent thermal baths. This result unravels a direct connection between the seemingly unrelated phenomena of incoherent driving of multilevel quantum systems and nonequilibrium quantum transport in qubit networks.
+  description: We establish a connection between noise-induced Fano coherences that arise in three-level quantum V-systems driven by polarized incoherent light, and the nonequilibrium flux across a pair of qubits coupled to two independent thermal baths. This result unravels a direct connection between the seemingly unrelated phenomena of incoherent driving of multilevel quantum systems and nonequilibrium quantum transport in qubit networks.
   authors: Suyesh Koyu, Amro Dodin, Paul Brumer, and Timur V. Tscherbul
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013295
