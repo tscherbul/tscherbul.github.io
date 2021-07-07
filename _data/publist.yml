@@ -1,6 +1,16 @@
+- title: "Universal stereodynamics of cold atom-molecule collisions in electric fields"
+  image: 2021-CC-PRL.png
+  description: We use numerically exact quantum dynamics calculations to demonstrate universal stereoselectivity of cold atom-molecule collisions in an external electric field. We also show that it is possible to control Ne + OH collisions over the range of collision energies achievable in current merged beam scattering experiments.
+  authors: Timur V. Tscherbul and Jacek Kłos
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062810
+    display:  Phys. Rev. A 103, 062810 (2021).
+  highlight: 1
+  news2:
+
 - title: "Complete Quantum Coherent Control of Ultracold Molecular Collisions"
   image: 2021-CC-PRL.png
-  description: We show that quantum interference-based coherent control is a highly efficient tool for tuning ultracold molecular collision dynamics. The basic idea of coherent control is to prepare tunable quantum superposition states ("Schrodinger cats") and let their deBroglie waves interfere in a collision, in direct analogy with Young's double-slit experiment.  
+  description: We show that quantum interference-based coherent control is a highly efficient tool for tuning ultracold molecular collision dynamics. The basic idea of coherent control is to prepare tunable quantum superposition states ("Schrodinger cats") and to let their deBroglie waves interfere in a collision, in direct analogy with Young's double-slit experiment.  
   authors: Adrien Devolder, Paul Brumer, and Timur V. Tscherbul
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.153403
