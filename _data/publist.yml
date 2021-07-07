@@ -1,6 +1,6 @@
 - title: "Complete Quantum Coherent Control of Ultracold Molecular Collisions"
   image: 2021-CC-PRL.png
-  description: We show that quantum interference-based coherent control is a highly efficient tool for tuning ultracold molecular collision dynamics. The basic idea of coherent control is to prepare molecular quantum superposition states ("Schrodinger cats") and letting them interfere in a collision by analogy with Young's double-slit experiment. 
+  description: We show that quantum interference-based coherent control is a highly efficient tool for tuning ultracold molecular collision dynamics. The basic idea of coherent control is to prepare tunable quantum superposition states ("Schrodinger cats") and let their deBroglie waves interfere in a collision, in direct analogy with Young's double-slit experiment.  
   authors: Adrien Devolder, Paul Brumer, and Timur V. Tscherbul
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.153403
