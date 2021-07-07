@@ -1,3 +1,13 @@
+- title: "Complete Quantum Coherent Control of Ultracold Molecular Collisions"
+  image: 2021-PRR-Vsystem.png
+  description: We show that quantum interference-based coherent control is a highly efficient tool for tuning ultracold molecular collision dynamics. The basic idea of coherent control is to prepare molecular quantum superposition states ("Schrodinger cats") and letting them interfere in a collision by analogy with Young's double-slit experiment. 
+  authors: Adrien Devolder, Paul Brumer, and Timur V. Tscherbul
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.153403
+    display:  Phys. Rev. Lett. 126, 153403 (2021).
+  highlight: 1
+  news2:
+
 - title: "Steady-state Fano coherences in a V-type system driven by polarized incoherent light"
   image: 2021-PRR-Vsystem.png
   description: By studying the emergence of steady-state Fano coherences in three-level quantum V-systems driven by incoherent light, we establish a direct connection between the seemingly unrelated phenomena of incoherent driving of multilevel quantum systems and nonequilibrium quantum transport in qubit networks.
