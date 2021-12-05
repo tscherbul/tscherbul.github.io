@@ -1,3 +1,13 @@
+- title: "Quantum spin state selectivity and magnetic tuning of ultracold chemical reactions of triplet alkali-metal dimers with alkali-metal atoms"
+  image: 2021-Stereodyn-PRA.png
+  description:  We show that it is possible to efficiently control ultracold chemical reactions of NaLi molecules in their metastable triplet states colliding with Na atoms by choosing the internal hyperfine and rovibrational states of the reactants and by inducing magnetic Feshbach resonances with an external magnetic field.
+  authors: Rebekah Hermsmeier, Jacek Kłos, Svetlana Kotochigova, and Timur V. Tscherbul
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.103402
+    display:  Phys. Rev. Lett. 127, 103402 (2021).
+  highlight: 1
+  news2:
+
 - title: "Universal stereodynamics of cold atom-molecule collisions in electric fields"
   image: 2021-Stereodyn-PRA.png
   description: We use numerically exact quantum dynamics calculations to demonstrate universal stereoselectivity of cold atom-molecule collisions in an external electric field. We also show that it is possible to control quantum stereodynamics of cold Ne + OH collisions over the range of collision energies achievable in current merged beam scattering experiments.
