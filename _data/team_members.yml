@@ -1,6 +1,6 @@
 - name: Timur V. Tscherbul
   photo: Timur.jpg
-  info: Assistant Professor, started Sep 2015
+  info: Associate Professor (since July 2021)
   email: ttscherbul@unr.edu
   number_educ: 4
   education1: MS & PhD, Chemical Physics, <a href="http://www.chem.msu.ru/eng/welcome.html"> Moscow State University (2002, 2005)</a> 
@@ -15,14 +15,6 @@
   number_educ: 2
   education1: MS, Physics, San Diego State University (2017)
   education2: BA, Natural Science and Mathematics, Thomas Edison State University, Trenton, NJ (2015)
-  
-- name: Suyesh Koyu
-  photo: Suyesh.jpg
-  info: Graduate student, 2016-2020
-  email: skoyu@nevada.unr.edu
-  number_educ: 2
-  education1: PhD, Physics, University of Nevada, Reno (2020)
-  education2: MS, Physics, Tribhuvan University, Nepal (2010)
 
 #- name: "This could be you !"
 #  photo: rock.jpg
