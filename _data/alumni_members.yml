@@ -1,7 +1,15 @@
 - name: Masato Morita
   photo: Masato.jpg
-  duration: In the Tscherbul Group 2016 - 2019, now Research Associate at University of Nevada, Las Vegas 
+  duration: In the Tscherbul Group 2016 - 2019, then Research Associate (University of Nevada, Las Vegas) 
   info: Research Associate
 #  email: 
 #  number_educ: 1
 #  education1: PhD, Keio University, Yokohama, Japan
+ 
+- name: Suyesh Koyu
+  photo: Suyesh.jpg
+  info: Graduate student, 2016-2020, then Postdoc (University of Central Florida)
+#  email: skoyu@nevada.unr.edu
+#  number_educ: 2
+#  education1: PhD, Physics, University of Nevada, Reno (2020)
+#  education2: MS, Physics, Tribhuvan University, Nepal (2010)
