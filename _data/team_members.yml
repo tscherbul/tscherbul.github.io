@@ -13,8 +13,16 @@
   info: Graduate student since 2019
   email: rhermsmeier@nevada.unr.edu
   number_educ: 2
+  education1: PhD, Physics, University Paris Saclay , Orsay, France (2021)
+  education2: MS, Physics, Sichuan University, Chengdu, China (2017)
+  
+- name: Xiaodong Xing
+  photo: Xiaodong.jpg
+  info: Postdoc since 2022
+  email: xxing@unr.edu
+  number_educ: 2
   education1: MS, Physics, San Diego State University (2017)
-  education2: BA, Natural Science and Mathematics, Thomas Edison State University, Trenton, NJ (2015)
+  education2: MS, Natural Science and Mathematics, Thomas Edison State University, Trenton, NJ (2015)
 
 #- name: "This could be you !"
 #  photo: rock.jpg
