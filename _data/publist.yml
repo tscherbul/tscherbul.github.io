@@ -1,7 +1,7 @@
 - title: "Ergodicity breaking in rapidly rotating C60 fullerenes"
   image: 2023-Science.png
-  description: Mechanisms for violating ergodicity (the inability of a quantum system to thermalize) are of interest for probing nonequilibrium matter and protecting quantum coherence in complex systems. We study rotational ergodicity breaking in an unprecedentedly large fullerene molecule, C60, determined from its icosahedral rovibrational fine structure. The results highlight the relevance of C60 to emergent phenomena in mesoscopic quantum systems.
-  authors: L. R. Liu, D. Rosenberg, P. B. Changala, P. J. D. Crowley, D. J. Nesbitt, N. Y. Yao, T. V. Tscherbul, and J. Ye, 
+  description: Mechanisms for violating ergodicity (the ability of a quantum system to thermalize) are of interest for probing nonequilibrium matter and protecting quantum coherence in complex systems. We study rotational ergodicity breaking in an unprecedentedly large fullerene molecule, C60, determined from its icosahedral rovibrational fine structure. 
+  authors: L. R. Liu, D. Rosenberg, P. B. Changala, P. J. D. Crowley, D. J. Nesbitt, N. Y. Yao, T. V. Tscherbul, and J. Ye
   link:
     url: https://www.science.org/doi/10.1126/science.adi6354
     display:  Science 381, 778 (2023).
