@@ -1,3 +1,13 @@
+- title: "Ergodicity breaking in rapidly rotating C60 fullerenes"
+  image: 2023-Science.png
+  description:  Ergodicity, the central tenet of statistical mechanics, requires an isolated system to explore all available phase space constrained by energy and symmetry. Mechanisms for violating ergodicity are of interest for probing nonequilibrium matter and protecting quantum coherence in complex systems. We study rotational ergodicity breaking in an unprecedentedly large fullerene molecule, C60, determined from its icosahedral rovibrational fine structure. These peculiar dynamics result from the molecule’s distinctive combination of symmetry, size, and rigidity, highlighting its relevance to emergent phenomena in mesoscopic quantum systems.
+  authors: L. R. Liu, D. Rosenberg, P. B. Changala, P. J. D. Crowley, D. J. Nesbitt, N. Y. Yao, T. V. Tscherbul, and J. Ye, 
+  link:
+    url: https://www.science.org/doi/10.1126/science.adi6354
+    display:  Science 381, 778 (2023).
+  highlight: 1
+  news2:
+
 - title: "A Feshbach resonance in collisions between triplet ground-state molecules"
   image: 2023-FR-model.png
   description:  We report a very pronounced and narrow (25 mG) Feshbach resonance in collisions between two triplet ground-state NaLi molecules. Our observations provide strong evidence for the existence of long-lived coherent intermediate complexes even in systems without reaction barriers and open up the possibility of coherent control of chemical reactions.
