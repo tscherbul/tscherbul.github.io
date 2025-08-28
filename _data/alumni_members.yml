@@ -1,3 +1,19 @@
+- name: Rebekah Hermsmeier
+  photo: Rebekah.jpg
+  info: Graduate student 2019-2024
+#  email: rhermsmeier@nevada.unr.edu
+#  number_educ: 2
+#  education1: MS, Physics, San Diego State University (2017)
+#  education2: MS, Natural Science and Mathematics, Thomas Edison State University, Trenton, NJ (2015)
+  
+- name: Xiaodong Xing
+  photo: Xiaodong.jpeg
+  info: Postdoc 2022-2023
+#  email: xxing@unr.edu
+#  number_educ: 2
+#  education1: PhD, Physics, University Paris Saclay, Orsay, France (2021) 
+#  education2: MS, Physics, Sichuan University, Chengdu, China (2017) 
+
 - name: Masato Morita
   photo: Masato.jpg
   duration: In the Tscherbul Group 2016 - 2019, then Research Associate (University of Nevada, Las Vegas) 
