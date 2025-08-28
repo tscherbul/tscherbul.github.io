@@ -1,3 +1,13 @@
+- title: "Hyperfine-to-rotational energy transfer in ultracold atom–molecule collisions of Rb and KRb"
+  image: 2025-NatChem.png
+  description: Nuclear spins can be active participants (and not mere observers!) in ultracold Rb + KRb collisions, offering fresh insight into a 15-year puzzle of ``sticky'' collisions of ultracold molecules. 
+  authors: Y.-X. Liu, L. Zhu, J. Luke, M. C. Babin, M. Gronowski, H. Ladjimi, M. Tomza, J. L. Bohn, T. V. Tscherbul, and K.-K. Ni
+  link:
+    url: https://www.nature.com/articles/s41557-025-01778-z
+    display:  Nat. Chem. 17 688 (2025).
+  highlight: 1
+  news2:
+
 - title: "Ergodicity breaking in rapidly rotating C60 fullerenes"
   image: 2023-Science.png
   description: Mechanisms for violating ergodicity (the ability of a quantum system to thermalize) are of interest for probing nonequilibrium matter and protecting quantum coherence in complex systems. We study rotational ergodicity breaking in an unprecedentedly large fullerene molecule, C60, determined from its icosahedral rovibrational fine structure. 
