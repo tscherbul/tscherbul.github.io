@@ -17,7 +17,5 @@ If you are interested in working in our group either as a PhD student or a postd
 
 For a list of graduate scholarships and awards available at UNR, go to the [graduate school webpage](https://www.unr.edu/grad/admissions/funding/awards). I would be happy to support you as a Graduate Research Assistant after you apply to our group. 
 
-Test: [here is last years call]({{ site.baseurl }}/downloads/PHD1.pdf))
-
 ### Master projects for UNR students
 If you are a Master student at UNR looking for an interesting quantum physics project, [email me](mailto:ttscherbul@unr.edu). 
