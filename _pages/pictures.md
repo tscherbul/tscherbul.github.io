@@ -7,6 +7,8 @@ permalink: /resources/
 
 # Resources
 
+Test ({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
+
 ## UNR groups
 [Jonathan Weinstein](https://weinsteinlab.org/) - matrix-isolated atoms for quantum information science.
 
